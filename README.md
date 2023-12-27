@@ -1,2 +1,2 @@
 # DarkestMazes
-A simple maze game
+A maze-escape 2d game

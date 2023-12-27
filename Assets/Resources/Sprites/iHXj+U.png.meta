@@ -1,0 +1,7385 @@
+fileFormatVersion: 2
+guid: b196d7cea516bba4ab899e45ac4e80b9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: iHXj+U_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 759
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c7029f2e3eeab4eb581783121768a8
+      internalID: 1752738522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 759
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b99ccdc65d867488dfa1cf664e2c55
+      internalID: 1442130040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 759
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5aa4795cda9154190af7c2ffeab9b2
+      internalID: -2003960431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 759
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b834a2e03167a4f8cc97f2e84420e0
+      internalID: 658742604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 759
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603ec5436534c994c86c632678e34687
+      internalID: 246634403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7213a8349625e614a98d454047267ef5
+      internalID: -1864944188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 748
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48070f04134d7044b3d1124c7853992
+      internalID: -192522379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 748
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4b50bcd8b7a224e9123909c801b4bf
+      internalID: -2019815121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 748
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004c24c46bb6984438ddc578371add5f
+      internalID: 1073771626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 748
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c76bc4dddbfdd489eca14e34616c41
+      internalID: 1110367688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 737
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1351a4ab0a1704caa04409883aa0e1
+      internalID: -14165052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 737
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ba8605c97e13845bc3d96ee3075fdf
+      internalID: 1635286701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 737
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772f1697022c1ac468c0933309a2c996
+      internalID: -256791163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 737
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d81b257637cc744b4197666b37d6d7
+      internalID: 873836639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 737
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294c5fc90c4f75649bda387d7193a321
+      internalID: 1756208328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64a99ac5ce9a1d4d8654ec9dd342746
+      internalID: -2071612011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 726
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43af1649d3c3467498d8ac3bdd426cf5
+      internalID: -511154559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 726
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07134d2179533243a5b9d570e927c1e
+      internalID: 1401674756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 726
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a172625e914b87643bc99cd89bde64d4
+      internalID: 862011509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 726
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25df18242a77aad4eabc4e778cf35b55
+      internalID: 1420848454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fffcc237325274fb6f64214dc8747d
+      internalID: -892789654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 715
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfb7a037d8981d4b815c7c6666992f3
+      internalID: -1816366134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 715
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11c4f7c87b8a3e46a57e2fb06888e6a
+      internalID: 1319333465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 715
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c585b8eec61bc4c9f26a8c4346dba7
+      internalID: 1328668704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 715
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398a20c7dab15f14ca615fb412b20044
+      internalID: -2014903801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7088b04bcf5d8cb44b40bebd77a37af3
+      internalID: -22027660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 704
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69cae61caff18b40bf79e11225bade9
+      internalID: -1753939592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_27
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 704
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef76a2c3d3d97e2419520633f976d42c
+      internalID: 767822121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 704
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c888ae691bb5449bd32450dd9eeca0
+      internalID: 330125906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 704
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140c5dbdd5618e9479abef1db5a39b9b
+      internalID: -318877248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f32ca4795643994fa5f58e63b01e910
+      internalID: 499728626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 693
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55eb873d1bbd9454ba33361c76440166
+      internalID: 463321384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_32
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 693
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23018c43b974d1446888b804efedb305
+      internalID: 620689761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 693
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c0d0a0ed9d121419e2690979cdbc96
+      internalID: -1242587127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_34
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 693
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0977dd6ed8013534491e6c87fb8f7da5
+      internalID: 1908138614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31df576a63f5331458195282f4ebeaf9
+      internalID: -681899545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 682
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4362145ff43814fb7ba9834bae8cbd
+      internalID: 1721437577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 682
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3412042aafcbe4eb8b2a2a102939c4
+      internalID: 1706825035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 682
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af050097fd5313041abf621f4aeb131c
+      internalID: 1899413036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_39
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 682
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895277cd4d7d6014eb75c507a41f2854
+      internalID: -1557120880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5bd590877cae045817d455ede40718
+      internalID: 1722148464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_41
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 671
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00252ae824fa344d8aeefd14f0e2ee0
+      internalID: -580359711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_42
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 671
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b6bc07cdf2666409efab270f21b47d
+      internalID: 428077765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 671
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d906babd3d89064b9583584bac34527
+      internalID: -1969789398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_44
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 671
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8674f9847da2edd44b94c77843acb5d2
+      internalID: 2135768911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9702239cec369449b07855f95137272
+      internalID: -227198309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_46
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 660
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250a8dfd780f95a40a1eb7d2807b90e1
+      internalID: -1188272035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 649
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff9dd4be7b46e741ae6b3eb3e38f067
+      internalID: 569217009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 649
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024d69fc3a4578342aa5b9d206fe6cae
+      internalID: 503552417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 649
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443e2889363ab2e42a7504ae9105d223
+      internalID: -1262131476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 649
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f5c2a91fc3c04db01cbe06b0af469
+      internalID: 515459240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 649
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e6af919516a4a459ae3ee8d6031210
+      internalID: -2113190799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67951fe8fefe6eb44a6e548c936831d7
+      internalID: -2087494628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_53
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 638
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c34675469e5b1f4ead5f93b8756d4b3
+      internalID: -1736243384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_54
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 638
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6641b019a14db6f4f8825cb9016fc977
+      internalID: -1628731713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 638
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75471ed33cda0743bece26c32a6e3bc
+      internalID: 1685403764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_56
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 638
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e2e8524da1c7a44835a4be920a8f64
+      internalID: 1476121890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92550750b161b984d89db7caab8b91ec
+      internalID: -544325563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_58
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 627
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e388e83bf4111444a5f4aacfc8155ca
+      internalID: 1034116336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_59
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 627
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21572286581451b48b7c3699fe262925
+      internalID: 1818589360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_60
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 627
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93326012443139c4eb54802f54342087
+      internalID: 1429087922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 627
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418050bbfc02b4a43ad904b0951e3b05
+      internalID: -1898131931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73afc24eaea1d7346be5a3de043778a5
+      internalID: 1238472351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_63
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 616
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88153d208a7c0e45abed510e461374b
+      internalID: -1680737795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_64
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 616
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedf3574ed831b041852295d20f8431d
+      internalID: -1248120661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_65
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 616
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4622f068ce7f0849acaa2420384ab64
+      internalID: -1245994492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_66
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 616
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485d3d306be8e0543bcd9ccc55497a83
+      internalID: 643719232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02131ddd2d5256d44b7e8bb94592a4a7
+      internalID: 475009586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_68
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 605
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fff74d2983e1d44d9bdac9e4a4a6b2f
+      internalID: -670447745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_69
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 605
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98fbcc541ddb5947a4926bb8bc81865
+      internalID: 376539246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_70
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 605
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b824b6c9bc1e444a57948718d48f28
+      internalID: 1118095978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 605
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463b8d8fc9da4eb42957f83ceafbb5d1
+      internalID: 1596732060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bd59bf5ca6d9e4ab39f8fc31e1ab85
+      internalID: 1246935847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_73
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 594
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72dd12001a20cb40bbc26ddd1220f37
+      internalID: -1198256938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_74
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 594
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c3d8b4d17a48a43b7f8b2d54e089c2
+      internalID: -995670046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_75
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 594
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f0a470aa324f547a859cacc6ef21e0
+      internalID: 2073396793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_76
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 594
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3fa76dfb174a048a79732e81bdc8ec
+      internalID: 882966386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a6dc30ba0f3094396160c6525d1858
+      internalID: 483051969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_78
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 583
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970993f4b62bfea468a82579798f066f
+      internalID: 725594791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_79
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 583
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3306787ddf170e241a781f2b789f6586
+      internalID: -1529820320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_80
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 583
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e813131c3a5b8d4188b648ad6263147
+      internalID: 1362061697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_81
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 583
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1762e7a9aca4d44a1a869951ae1a24
+      internalID: -976244815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd47506393f912438645bcc05fc0049
+      internalID: -658033343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_83
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 572
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a164351cdcbbf634ea860983ecdcd0c1
+      internalID: -1725422505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_84
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 572
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c61328a9ca7e81468cf02b7aebc325f
+      internalID: 1847249657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_85
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 572
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a73256080ba747468b8866a9892b293
+      internalID: -1870788863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_86
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 572
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd74ecaa2b56ede46b7dd3512d411fe4
+      internalID: 1927675681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1b2b6cea7f4ea4bb45fce9d347a61a
+      internalID: -1459522430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_88
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 561
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b52bd2a854c7b4ca406818f864a584
+      internalID: -452530717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_89
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 561
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f650db93bf48ed49aa76687915d961b
+      internalID: 1225603594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_90
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 561
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811313e60d5cf6544ba07b84fdab84ee
+      internalID: -1137184109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_91
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 561
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61e619bbfe72834f93b712875afac30
+      internalID: -25711671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da46f822b8a9c1d428dbb83288884abe
+      internalID: -67549200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_93
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 550
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b7d3aa15557914c9a22fd8eaf9990a
+      internalID: -616429104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b1adb0157e1a84bb0eef830b8f0a86
+      internalID: -1898081805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_95
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 539
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48027bd082c006c4888abd9189a4142e
+      internalID: -1370748276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_96
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 539
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdb067030ca4c8419a754ec95035161
+      internalID: 65315666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_97
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 539
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3149dd6e6ef3949bd4ea4184feb7bb
+      internalID: -1715642307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_98
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 539
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96633e9ace1e6644c89850f0f5b0fb0f
+      internalID: -1556320758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9296bcec23915654ab00a1b1125ada70
+      internalID: 972601068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_100
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 528
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8da0ee567b89a945b4ffd8542ac0b9b
+      internalID: -148362636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_101
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 528
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0203f3f10d266145af9f199c153edb4
+      internalID: 1427470730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_102
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 528
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f0ed3db4ba9cb42aac5035a19eea27
+      internalID: -1885961405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_103
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 528
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766122f7c421d3c44a44b9f005d61d9a
+      internalID: 803278899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 517
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4909dc59653c79845a30dad7498d4a82
+      internalID: -908455977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_105
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 517
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d633a6d0a7005b2499029b2b45750bf5
+      internalID: 554384930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_106
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 517
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f50156f0b7d8e94f9a0c6d66a21ec27
+      internalID: 442269171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_107
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 517
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d0bb7fe078b1f44b07f79471f28fdf
+      internalID: 1762093351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_108
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 517
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc81aca873cb4048945b4e5675f176c
+      internalID: -1920510618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1205df0d95b7d49a5efbb5cb25b067
+      internalID: -1536503300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_110
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 506
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a856876aa980b645b046bfb2f5b691c
+      internalID: 1739585530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_111
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 506
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce5801b8ee80504b8228396fb9dc7b0
+      internalID: 1773661049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_112
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 506
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fecc314ba35954599ad1faf86c90e0
+      internalID: 990158956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_113
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 506
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31d220832c12574caff009fcac2900a
+      internalID: -395328721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97801da911b48de4ab7e3aeded5b29e5
+      internalID: 640940248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_115
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 495
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25ee3d39893cd14dbecf8294965f010
+      internalID: -1523200989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_116
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 495
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91c7c07f397f39499152bc1e1ab10b9
+      internalID: -587161912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_117
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 495
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca123fa11a398f445b48395671538d32
+      internalID: 1380752587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_118
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 495
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1fecec6da3d0c47bf1ee48e615592f
+      internalID: 129595766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae694c594e57a14694401efd4c0c32b
+      internalID: 977808580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_120
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 484
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94cc8d8cba0ed74b873cada16abe12b
+      internalID: 1204787096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_121
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 484
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b6cf03509424c408d2b67688dd25fc
+      internalID: -1080225348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_122
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 484
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57c544ce7c5e004eb34a5ede3613bf6
+      internalID: -1289846091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_123
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 484
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334199b671897a540836dee9e39c8f39
+      internalID: -887141442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3387fa6a213d13646aa9468a9f3d8c28
+      internalID: -2053714110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_125
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 473
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f7c2e4763b97c45937d4d36e09f9f8
+      internalID: 1645375111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_126
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 473
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d788390d22f4d46b7f7450b5192ccd
+      internalID: -254388845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_127
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 473
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9834f2c32d3f2e46b6ef294460f9627
+      internalID: -1685468309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_128
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 473
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65337acfec854749a15811793b502d8
+      internalID: 156423423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fad011878a55494a873fe6a0da72096
+      internalID: -190878179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_130
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 462
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e11b8eea416964093d6aa02b25d77c
+      internalID: -1575927329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_131
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 462
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa333642f074eb346a887c875c486b1c
+      internalID: -694895913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_132
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 462
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49428a9049494f46bf2191591445b65
+      internalID: 273265291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_133
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 462
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3633607bf72cc48b836e43cef0f9bf
+      internalID: -1351079568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5651667b84372584599a9d860521e0fa
+      internalID: -1582307952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_135
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 451
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc130ab71b6102345bd8ed6739c544c3
+      internalID: -947048838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_136
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 451
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc7bd7708c215e4fb5a403fc1b5b83c
+      internalID: 286137203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_137
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 451
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7ce1cb177edce4ba6ca6a920f5450a
+      internalID: 1244174664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_138
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 451
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bba88e53a579d540ad5d2107c368ec4
+      internalID: 666457592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4f07e26cde0044db96f78974518e11
+      internalID: 2066111611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_140
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 440
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591fec8c3ebbf034180565d97e3bf9f1
+      internalID: 175570728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47483a9ae55667244bb63351b1cbefc5
+      internalID: 1780050965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_142
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 429
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7406335d89e35c54397e1ed3d329ecef
+      internalID: 1126404377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_143
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 429
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e9e309b76d11a4db317a6cd5894bbf
+      internalID: -1543888764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_144
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 429
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a827f32c81bc4d74a88dfb81c284a014
+      internalID: 702355924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_145
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 429
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8353720ee0f74da99086eeee684fc
+      internalID: -1746358890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdbf7dcef2c5724982b532409fc8b58
+      internalID: 733335587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_147
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 418
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0150766fe22634f9959df4bf90497a
+      internalID: 330704615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_148
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 418
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e85ca9215c0b54bb04f46a7f3262a9
+      internalID: -1176612885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_149
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 418
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340a80b8c2d058447af1b5c0134769a5
+      internalID: -1117021063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_150
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 418
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa53ea38b1129245aba412f6a5daa10
+      internalID: 164258073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bcf25a8da562a4b987b60727a685a7
+      internalID: 1248672430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_152
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 407
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09deab210ae4dcd48ae03c5e0f5d1aed
+      internalID: 24490568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_153
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 407
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62637c6c877625f4ebbb1422b584626f
+      internalID: -1490699781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_154
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 407
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729e6d5329efd4d42afa9081733c2f35
+      internalID: -1109981892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_155
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 407
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e061b0fe45f9d974493c39b2d1ddab85
+      internalID: 466234123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25354de0ca0407442af90bd612f3e289
+      internalID: 215608925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_157
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 396
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43f437d53d12204c9a76978846f58b7
+      internalID: 1618971806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_158
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 396
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75aa8d9036a4ca4f9d0709e29c179cd
+      internalID: 1086546954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_159
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 396
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae8f381c9164da46bc6f0d97f2ec93e
+      internalID: 697048282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_160
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 396
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2078683ad9eda36488bbd3149c00a10d
+      internalID: 1147611646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29702b77a1686dc4c85716bc0e332d25
+      internalID: -2095689236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_162
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 385
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e1488c8593b574c85029ed3a50bca2
+      internalID: -508398930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_163
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 385
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad2a9da3ed8f6b40bbf015043a5df4d
+      internalID: 1066895089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_164
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 385
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a9061e55e61684da51702d6f8ea093
+      internalID: 711732755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_165
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 385
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f761ce24fc48c344380c607f5204ee7a
+      internalID: -1479185178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175eafb6270935441b7d479dc368c7c7
+      internalID: -208219978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_167
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 374
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebec618df10d908498301872958b0f05
+      internalID: 1897034789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_168
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 374
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182aa29f10e8c6e4dbc7a4d2823306da
+      internalID: -172724731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_169
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 374
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55213ffbdf421646a524643853e2ebc
+      internalID: 1929789358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_170
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 374
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b1fbc6eac0eba4891c3b3bba8d8a75
+      internalID: -1914020491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b4f9dcfde738a48bccf8d919caa2d7
+      internalID: -1111925042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_172
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 363
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118c624ee9ccbee4e9234ed57b3aa12c
+      internalID: -1700772974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_173
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 363
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0c7e43a9705af40b28b1d65f000e04
+      internalID: -453463802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_174
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 363
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae348f6733112d4a8569c9fd9c5e682
+      internalID: -1286177356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_175
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 363
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22390cf693a2aca44aefe92ea66ae381
+      internalID: -579952819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cfc5978046fb742a386aa1c369c1a1
+      internalID: 579039906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_177
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4dc30b8bdacac4eadf524810e91de5
+      internalID: 529062643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_178
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f184533d0dd05554fa66b9dc5d1a9bf4
+      internalID: 1218140925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_179
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135f4327c76bdd648a297f4d856e2202
+      internalID: 1923322297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_180
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c7ee4e6e6c8db4ca48d07e173ed224
+      internalID: 301780574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91099759b334ac44497722c556bf7fd3
+      internalID: -1931844945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_182
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 341
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b721728dc6da564db506dcae2a52031
+      internalID: -779135329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_183
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 341
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e618d3788b777843b53f1085d396f06
+      internalID: -482693392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_184
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 341
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c81a9585c789f54c800777dfa2677fd
+      internalID: -2116511378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_185
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 341
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65495d6c2ba2b1848bfd340ab209f082
+      internalID: -266745761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244f9e97aa599ab49bb1f63aef0aba26
+      internalID: -399204213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_187
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 330
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b5eb5a1e67ac543919f1e2b9261246
+      internalID: -555099889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a00d886c2f1f3498678824c3b4c86b
+      internalID: 215590896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_189
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 319
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfbe68b4a967d947820d4f943904bec
+      internalID: -353440648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_190
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 319
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa628e3d747c9a4191452ee0e5cec28
+      internalID: 191682654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_191
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 319
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6fc16f725cfd24bb21194bddf573ac
+      internalID: -115202383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_192
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 319
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eabc2632548564395834e8980a6cef
+      internalID: 467187058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2bac3926ddad64da0268b6f5327975
+      internalID: 212458500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_194
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 308
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0e2a8c4a950f14b880345968ee08c4
+      internalID: -619112928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_195
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 308
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dfa2c8607fda648bde04a8cff9b671
+      internalID: -520426709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_196
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 308
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3802660d8bb486e4ea532eb1781aba6e
+      internalID: 549356574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_197
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 308
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad7c86f6c6fe254e98bf4dc586527cc
+      internalID: -155315231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da2106c0d4268e4288393439dcd315a
+      internalID: -870845124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_199
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 297
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7f718a04f107d46a7abad3536e8a3c
+      internalID: 1476559545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_200
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 297
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deef72012cb19dd4fa1c1afd7e5ec4b9
+      internalID: -304124025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_201
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 297
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c27151f9b1d364ab87298a6eb44270
+      internalID: -1837309424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_202
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 297
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce22b84a6d9ced4e8267113539522e7
+      internalID: -1603607356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a90cd818ea71964d930e74e8673f774
+      internalID: 370769887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_204
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 286
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4952ab97e94624794129ed542a271f
+      internalID: 995875145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_205
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 286
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d089e68d7f5144b83311aaef9c32c3
+      internalID: 2052266699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_206
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 286
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a6f222113283c4dac517f90e63e85d
+      internalID: -1810087272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_207
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 286
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c238db0ed30c6f645b2261a55cfa52f6
+      internalID: -2028409059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de807bb28e8fd44c845cbadbad628ef
+      internalID: -1755804744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_209
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 275
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb94f07b88bdfd41ba764c79abf0f50
+      internalID: 596189535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_210
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 275
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1bb4846bd21ed43a3cb7744bf383ed
+      internalID: 1209783945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_211
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 275
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed8835ffd9dcd2488c2fee9c9b44af8
+      internalID: -1779105634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_212
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 275
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3daadeaaf32ed4098c70a99cba665b
+      internalID: -1323235338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf8d329b25ebc04fb69c108073cfb7f
+      internalID: 1491651375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_214
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 264
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b406a78a54da4e748ab7cc7c1d480e12
+      internalID: -2015674125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_215
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 264
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd4511243d22a449eb49342d2be372
+      internalID: 132073600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_216
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 264
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961dd1644fddaae44b68c28e55ac3036
+      internalID: -55650800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_217
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 264
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ad4f344da467749b1259c24eb22106
+      internalID: -1188970124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_218
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879a297589dda9e439ce1388f92d9932
+      internalID: 403184616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_219
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 253
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fada19786177a74f89a7a2d62cf3704
+      internalID: 1959948795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_220
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 253
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c810858229c8d49a145460a17636c9
+      internalID: 954123761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_221
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 253
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083592dae77e01f46bdece4e4a3b29f0
+      internalID: 492177844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_222
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 253
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cd3da5310dd8e4c88a3ddb05112735
+      internalID: -248225988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_223
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c889ce2514601d943813984653085ec2
+      internalID: 822125127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_224
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 242
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175ea729b79d0254897ba597adfcc8b2
+      internalID: -136196156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_225
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 242
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1036fb8ce3ce8b14b8cb1882458b1dba
+      internalID: -861567944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_226
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 242
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643b79e0a04748e49979eeb7ded93b4d
+      internalID: -883058652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_227
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 242
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b49cb13cba88a458fca4a8b9aefaa4
+      internalID: 870638118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f09452a9205f5c4a86aef6b9c332971
+      internalID: -1342920540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_229
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 231
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83669d05435762948a3008306ca9771b
+      internalID: -1225814654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_230
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 231
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38328c3a81a21e4ebe09748bd13306f
+      internalID: -1537805202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_231
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 231
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c41f53ec5f00c45ae35b9c717767de
+      internalID: -1390923302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_232
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 231
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899371da2c56e9b4f83c9ea45b1b0e75
+      internalID: 1053777836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_233
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9add646dc592043b657b7bdabdd2b0
+      internalID: -1362832996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_234
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 220
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eb84380c6fe144ca153246772fda90
+      internalID: -925969160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_235
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3a0ab83b1462e4f86443b97b6b43d6
+      internalID: -1432749588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_236
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8591b647f0b65b44d80e02feb679b66b
+      internalID: -1756561371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_237
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781a1bcd3ebb3864d92b7813b026d472
+      internalID: 1357844362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_238
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e14510394a0ca94a87c090e610f339f
+      internalID: -2114673147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_239
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd46aae09b594444b05afd2d31aeb1b
+      internalID: -1811597606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3d5ff5c35171145aacd2625df34f4f
+      internalID: -453598766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_241
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf5a173811b9ef4caa12208644968ae
+      internalID: 1702087614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_242
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8b310b8ed3ef24bb85c1d399d42e7b
+      internalID: 1350248277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_243
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fede562dfef9e0549b57569aac979cde
+      internalID: -2120281749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_244
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e23285d403a0c43814bccd98802c47
+      internalID: 2006861517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_245
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5472a6d3ce11c4e8199bef42397aef
+      internalID: -898528833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_246
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 187
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ddc9241ab09a4468805bb967e443cf
+      internalID: 1813845943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_247
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 187
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f323a76da1f2644b7224af20ebe4bb
+      internalID: -1921910458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_248
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 187
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f878bba9b34ec46a931a9b525900bb
+      internalID: -2109882648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_249
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 187
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c58492cde92b46469288e9bf4adc64b
+      internalID: 1124290276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5164146f63ee2b438ad766a2f32ba06
+      internalID: -616116634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_251
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 176
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a648c235e46f6294fbcc02b0299151c0
+      internalID: 243052725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_252
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 176
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a86449fb1a0c84c9c024da809cbb05
+      internalID: 559589577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_253
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 176
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a754b88d537eaa240a826d1834848dd1
+      internalID: -675188228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_254
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 176
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c66e375d482b6479595089b08aa7f4
+      internalID: 192669434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_255
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80be425274f575844be376e2be3296f4
+      internalID: -1669307648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_256
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 165
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2056765ca11419441b3bc71a2c64ae15
+      internalID: -1461306689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_257
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 165
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6f449aa94887645a7a6112da171d88
+      internalID: -1341997608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_258
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 165
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c523249c9c3694c8d311a297172c94
+      internalID: 815140136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_259
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 165
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55086b122b4f5d3448543bf07751db4e
+      internalID: 878044368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_260
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dce02edc4d43c4db86a3a919f2a014
+      internalID: 2075406094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_261
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 154
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e09bd94cba424cbe6965e9bef0d33
+      internalID: -337996010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_262
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 154
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7d47ec94234e147aedfe39b797cc83
+      internalID: 278253892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_263
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 154
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4226f972ae784bd4ca2f0ad20cced825
+      internalID: 1029488322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_264
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 154
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c20cc3c84b21142968763cc544fd3c
+      internalID: 392028021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_265
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa100a3f53dfa34096a752306d0fd90
+      internalID: 735035241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_266
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 143
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168aa7c342c24a0448ff5ae3e965c7d6
+      internalID: 965218531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_267
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 143
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8842506f6ab5045802e488c3f0dced
+      internalID: 364392784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_268
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 143
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83c08e548c213145bf73b6828e49b97
+      internalID: -226128812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_269
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 143
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642f350fc350ce6459a0f80c063b6e5a
+      internalID: -955576077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9589703bd78d24ba28719ff81a92e6
+      internalID: -473001602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_271
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026b2f41eed462d4695371d12a1f9a08
+      internalID: -781541822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_272
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efdcd8392cb1214e83de9f70c334bc8
+      internalID: 1817917861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_273
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4ece8e35de38845be73ffb09f8c776
+      internalID: 2035224500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_274
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995c698511b037349aef91c6d39ce880
+      internalID: 1790960052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_275
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c63695c50039b3499afeed2847e5138
+      internalID: 1734876316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_276
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 121
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d0d7c686565b641bd1deae3243af10
+      internalID: -436439039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_277
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 121
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac856de3d610a646b4d82bb71108db2
+      internalID: -1754064112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_278
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 121
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d09caaf3e06d0f4aae1052ccd17a093
+      internalID: 1566509003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_279
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 121
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503dcf1ede2019741870ccb3c1759102
+      internalID: -2078390523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_280
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cf8edfcaaa1174d89d7fa366121f45
+      internalID: 1886639826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_281
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39587dbf3938a404dbab1a6726e0c623
+      internalID: 994266231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_282
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844384ad2d86a184389db92db58928ef
+      internalID: -759469274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_283
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db5a52b7a640e449afa846620f4066d
+      internalID: -1476649111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_284
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31203df43f6bf8645b238aec4d7f2f24
+      internalID: -964982951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_285
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68b9f3a78232a04d830c79702b99667
+      internalID: -1529034017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_286
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fedb3ab7ae95664eb409d6971ee19ed
+      internalID: -369428245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_287
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd69554ddeb03f41831055c1856d96d
+      internalID: -1057335816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_288
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e8f691596349b4497843b69fbc5e21
+      internalID: 1510851698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_289
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f1ad21f8fb6194b9c91c05dd2983bf
+      internalID: -2138093322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_290
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f85829e62a5df46abcdb5300a23c96
+      internalID: -591519204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_291
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 88
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda215bfae4ccf44384019f0c7b8e08c
+      internalID: 858439222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_292
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155193991ae9497449cd31a63e24ac50
+      internalID: -1022858661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_293
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6232f142da8786488d1b939105df711
+      internalID: -524966451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_294
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01af30f25c12aa41a7f52f4b3959303
+      internalID: -1314440438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_295
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d52e67d52c2d31429de286861ba091f
+      internalID: 712316648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_296
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457448ca690fb164e8411dc8ea935475
+      internalID: -1080758150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_297
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8961724b33ae164da2c09065d0be315
+      internalID: -1154230812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_298
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 66
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1095da2f3b7ff418f6151c0e5ec9c7
+      internalID: -1456246005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_299
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 66
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ff7225102be1b469ef1c2a06414c05
+      internalID: -1061018551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_300
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 66
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfc3a4e09d04704882995d2b7ebac6b
+      internalID: 956992758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_301
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 66
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ac03b62c01be443b5a8bcfb4f3913a
+      internalID: -315651887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_302
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403181436ce7d324b8fa67647d2bc3d6
+      internalID: 953621146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_303
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e007df4730506d4bb64abedbde9f3cc
+      internalID: -1653772905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_304
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6d54489db8b85439f1c7dc765df206
+      internalID: -1588499655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_305
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a59571e697f68e46b1279344c8770da
+      internalID: -1611692244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_306
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f086535d7ce7ee84f8e5e8ac5ff44a5e
+      internalID: -2078008950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_307
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284860bed1069794ba1387b08cefa918
+      internalID: -1169994248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_308
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a2a49d5cef2d545b31f928bcdaa286
+      internalID: 2025326106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_309
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4ba9cc4ffcc88489c9783ce2e79dfb
+      internalID: 996131133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_310
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b73d86198729645846aebe8a55d831
+      internalID: 614917671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_311
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b1d62a196d5914282623f6b4a30a58
+      internalID: 926672532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_312
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70afe142fa5115459a57e26f224a0a6
+      internalID: -1969521955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_313
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 33
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aa3a6744080dc45a1c3885d6347d91
+      internalID: 94226702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_314
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 33
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae8ec12d549ff846ac15f6467204a05
+      internalID: 539025758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_315
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a6b6aa8552d4a4cb45e80b129df989
+      internalID: 1473286892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_316
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 33
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d5662eb2521e7428340b3bacd53bd8
+      internalID: -1263179891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_317
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de2ca252371a26469363fe36d7b8828
+      internalID: 2119365406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_318
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 22
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5be122e7b515954e9367b9e4b4a6b05
+      internalID: 610381994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_319
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 22
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1251fbf61107669448eb34428cfa270c
+      internalID: -2046612960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_320
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 22
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7532e102518347a4e8601acfe8deee9c
+      internalID: 2014970054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_321
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 22
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3144091713acbe1418ba734edea28627
+      internalID: 14261678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_322
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f892e258810e84cb044ab439019880
+      internalID: -1919352360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_323
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc269c1f5e0c6b4ab6f8414b14a0054
+      internalID: 1334316128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_324
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ec8fd19d6b36b43bbafb9d0949ca63
+      internalID: 377868376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_325
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d13474168746941b2e76020bf7a9ab
+      internalID: 2121316071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_326
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca2222ad068cea458f60639a4d65b50
+      internalID: 2050295755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_327
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b4d488c9b297e4dbd7858cbb8723b3
+      internalID: -841393053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iHXj+U_328
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bea62e933d509843900690882671abf
+      internalID: -56806068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      iHXj+U_0: 1752738522
+      iHXj+U_1: 1442130040
+      iHXj+U_10: -14165052
+      iHXj+U_100: -148362636
+      iHXj+U_101: 1427470730
+      iHXj+U_102: -1885961405
+      iHXj+U_103: 803278899
+      iHXj+U_104: -908455977
+      iHXj+U_105: 554384930
+      iHXj+U_106: 442269171
+      iHXj+U_107: 1762093351
+      iHXj+U_108: -1920510618
+      iHXj+U_109: -1536503300
+      iHXj+U_11: 1635286701
+      iHXj+U_110: 1739585530
+      iHXj+U_111: 1773661049
+      iHXj+U_112: 990158956
+      iHXj+U_113: -395328721
+      iHXj+U_114: 640940248
+      iHXj+U_115: -1523200989
+      iHXj+U_116: -587161912
+      iHXj+U_117: 1380752587
+      iHXj+U_118: 129595766
+      iHXj+U_119: 977808580
+      iHXj+U_12: -256791163
+      iHXj+U_120: 1204787096
+      iHXj+U_121: -1080225348
+      iHXj+U_122: -1289846091
+      iHXj+U_123: -887141442
+      iHXj+U_124: -2053714110
+      iHXj+U_125: 1645375111
+      iHXj+U_126: -254388845
+      iHXj+U_127: -1685468309
+      iHXj+U_128: 156423423
+      iHXj+U_129: -190878179
+      iHXj+U_13: 873836639
+      iHXj+U_130: -1575927329
+      iHXj+U_131: -694895913
+      iHXj+U_132: 273265291
+      iHXj+U_133: -1351079568
+      iHXj+U_134: -1582307952
+      iHXj+U_135: -947048838
+      iHXj+U_136: 286137203
+      iHXj+U_137: 1244174664
+      iHXj+U_138: 666457592
+      iHXj+U_139: 2066111611
+      iHXj+U_14: 1756208328
+      iHXj+U_140: 175570728
+      iHXj+U_141: 1780050965
+      iHXj+U_142: 1126404377
+      iHXj+U_143: -1543888764
+      iHXj+U_144: 702355924
+      iHXj+U_145: -1746358890
+      iHXj+U_146: 733335587
+      iHXj+U_147: 330704615
+      iHXj+U_148: -1176612885
+      iHXj+U_149: -1117021063
+      iHXj+U_15: -2071612011
+      iHXj+U_150: 164258073
+      iHXj+U_151: 1248672430
+      iHXj+U_152: 24490568
+      iHXj+U_153: -1490699781
+      iHXj+U_154: -1109981892
+      iHXj+U_155: 466234123
+      iHXj+U_156: 215608925
+      iHXj+U_157: 1618971806
+      iHXj+U_158: 1086546954
+      iHXj+U_159: 697048282
+      iHXj+U_16: -511154559
+      iHXj+U_160: 1147611646
+      iHXj+U_161: -2095689236
+      iHXj+U_162: -508398930
+      iHXj+U_163: 1066895089
+      iHXj+U_164: 711732755
+      iHXj+U_165: -1479185178
+      iHXj+U_166: -208219978
+      iHXj+U_167: 1897034789
+      iHXj+U_168: -172724731
+      iHXj+U_169: 1929789358
+      iHXj+U_17: 1401674756
+      iHXj+U_170: -1914020491
+      iHXj+U_171: -1111925042
+      iHXj+U_172: -1700772974
+      iHXj+U_173: -453463802
+      iHXj+U_174: -1286177356
+      iHXj+U_175: -579952819
+      iHXj+U_176: 579039906
+      iHXj+U_177: 529062643
+      iHXj+U_178: 1218140925
+      iHXj+U_179: 1923322297
+      iHXj+U_18: 862011509
+      iHXj+U_180: 301780574
+      iHXj+U_181: -1931844945
+      iHXj+U_182: -779135329
+      iHXj+U_183: -482693392
+      iHXj+U_184: -2116511378
+      iHXj+U_185: -266745761
+      iHXj+U_186: -399204213
+      iHXj+U_187: -555099889
+      iHXj+U_188: 215590896
+      iHXj+U_189: -353440648
+      iHXj+U_19: 1420848454
+      iHXj+U_190: 191682654
+      iHXj+U_191: -115202383
+      iHXj+U_192: 467187058
+      iHXj+U_193: 212458500
+      iHXj+U_194: -619112928
+      iHXj+U_195: -520426709
+      iHXj+U_196: 549356574
+      iHXj+U_197: -155315231
+      iHXj+U_198: -870845124
+      iHXj+U_199: 1476559545
+      iHXj+U_2: -2003960431
+      iHXj+U_20: -892789654
+      iHXj+U_200: -304124025
+      iHXj+U_201: -1837309424
+      iHXj+U_202: -1603607356
+      iHXj+U_203: 370769887
+      iHXj+U_204: 995875145
+      iHXj+U_205: 2052266699
+      iHXj+U_206: -1810087272
+      iHXj+U_207: -2028409059
+      iHXj+U_208: -1755804744
+      iHXj+U_209: 596189535
+      iHXj+U_21: -1816366134
+      iHXj+U_210: 1209783945
+      iHXj+U_211: -1779105634
+      iHXj+U_212: -1323235338
+      iHXj+U_213: 1491651375
+      iHXj+U_214: -2015674125
+      iHXj+U_215: 132073600
+      iHXj+U_216: -55650800
+      iHXj+U_217: -1188970124
+      iHXj+U_218: 403184616
+      iHXj+U_219: 1959948795
+      iHXj+U_22: 1319333465
+      iHXj+U_220: 954123761
+      iHXj+U_221: 492177844
+      iHXj+U_222: -248225988
+      iHXj+U_223: 822125127
+      iHXj+U_224: -136196156
+      iHXj+U_225: -861567944
+      iHXj+U_226: -883058652
+      iHXj+U_227: 870638118
+      iHXj+U_228: -1342920540
+      iHXj+U_229: -1225814654
+      iHXj+U_23: 1328668704
+      iHXj+U_230: -1537805202
+      iHXj+U_231: -1390923302
+      iHXj+U_232: 1053777836
+      iHXj+U_233: -1362832996
+      iHXj+U_234: -925969160
+      iHXj+U_235: -1432749588
+      iHXj+U_236: -1756561371
+      iHXj+U_237: 1357844362
+      iHXj+U_238: -2114673147
+      iHXj+U_239: -1811597606
+      iHXj+U_24: -2014903801
+      iHXj+U_240: -453598766
+      iHXj+U_241: 1702087614
+      iHXj+U_242: 1350248277
+      iHXj+U_243: -2120281749
+      iHXj+U_244: 2006861517
+      iHXj+U_245: -898528833
+      iHXj+U_246: 1813845943
+      iHXj+U_247: -1921910458
+      iHXj+U_248: -2109882648
+      iHXj+U_249: 1124290276
+      iHXj+U_25: -22027660
+      iHXj+U_250: -616116634
+      iHXj+U_251: 243052725
+      iHXj+U_252: 559589577
+      iHXj+U_253: -675188228
+      iHXj+U_254: 192669434
+      iHXj+U_255: -1669307648
+      iHXj+U_256: -1461306689
+      iHXj+U_257: -1341997608
+      iHXj+U_258: 815140136
+      iHXj+U_259: 878044368
+      iHXj+U_26: -1753939592
+      iHXj+U_260: 2075406094
+      iHXj+U_261: -337996010
+      iHXj+U_262: 278253892
+      iHXj+U_263: 1029488322
+      iHXj+U_264: 392028021
+      iHXj+U_265: 735035241
+      iHXj+U_266: 965218531
+      iHXj+U_267: 364392784
+      iHXj+U_268: -226128812
+      iHXj+U_269: -955576077
+      iHXj+U_27: 767822121
+      iHXj+U_270: -473001602
+      iHXj+U_271: -781541822
+      iHXj+U_272: 1817917861
+      iHXj+U_273: 2035224500
+      iHXj+U_274: 1790960052
+      iHXj+U_275: 1734876316
+      iHXj+U_276: -436439039
+      iHXj+U_277: -1754064112
+      iHXj+U_278: 1566509003
+      iHXj+U_279: -2078390523
+      iHXj+U_28: 330125906
+      iHXj+U_280: 1886639826
+      iHXj+U_281: 994266231
+      iHXj+U_282: -759469274
+      iHXj+U_283: -1476649111
+      iHXj+U_284: -964982951
+      iHXj+U_285: -1529034017
+      iHXj+U_286: -369428245
+      iHXj+U_287: -1057335816
+      iHXj+U_288: 1510851698
+      iHXj+U_289: -2138093322
+      iHXj+U_29: -318877248
+      iHXj+U_290: -591519204
+      iHXj+U_291: 858439222
+      iHXj+U_292: -1022858661
+      iHXj+U_293: -524966451
+      iHXj+U_294: -1314440438
+      iHXj+U_295: 712316648
+      iHXj+U_296: -1080758150
+      iHXj+U_297: -1154230812
+      iHXj+U_298: -1456246005
+      iHXj+U_299: -1061018551
+      iHXj+U_3: 658742604
+      iHXj+U_30: 499728626
+      iHXj+U_300: 956992758
+      iHXj+U_301: -315651887
+      iHXj+U_302: 953621146
+      iHXj+U_303: -1653772905
+      iHXj+U_304: -1588499655
+      iHXj+U_305: -1611692244
+      iHXj+U_306: -2078008950
+      iHXj+U_307: -1169994248
+      iHXj+U_308: 2025326106
+      iHXj+U_309: 996131133
+      iHXj+U_31: 463321384
+      iHXj+U_310: 614917671
+      iHXj+U_311: 926672532
+      iHXj+U_312: -1969521955
+      iHXj+U_313: 94226702
+      iHXj+U_314: 539025758
+      iHXj+U_315: 1473286892
+      iHXj+U_316: -1263179891
+      iHXj+U_317: 2119365406
+      iHXj+U_318: 610381994
+      iHXj+U_319: -2046612960
+      iHXj+U_32: 620689761
+      iHXj+U_320: 2014970054
+      iHXj+U_321: 14261678
+      iHXj+U_322: -1919352360
+      iHXj+U_323: 1334316128
+      iHXj+U_324: 377868376
+      iHXj+U_325: 2121316071
+      iHXj+U_326: 2050295755
+      iHXj+U_327: -841393053
+      iHXj+U_328: -56806068
+      iHXj+U_33: -1242587127
+      iHXj+U_34: 1908138614
+      iHXj+U_35: -681899545
+      iHXj+U_36: 1721437577
+      iHXj+U_37: 1706825035
+      iHXj+U_38: 1899413036
+      iHXj+U_39: -1557120880
+      iHXj+U_4: 246634403
+      iHXj+U_40: 1722148464
+      iHXj+U_41: -580359711
+      iHXj+U_42: 428077765
+      iHXj+U_43: -1969789398
+      iHXj+U_44: 2135768911
+      iHXj+U_45: -227198309
+      iHXj+U_46: -1188272035
+      iHXj+U_47: 569217009
+      iHXj+U_48: 503552417
+      iHXj+U_49: -1262131476
+      iHXj+U_5: -1864944188
+      iHXj+U_50: 515459240
+      iHXj+U_51: -2113190799
+      iHXj+U_52: -2087494628
+      iHXj+U_53: -1736243384
+      iHXj+U_54: -1628731713
+      iHXj+U_55: 1685403764
+      iHXj+U_56: 1476121890
+      iHXj+U_57: -544325563
+      iHXj+U_58: 1034116336
+      iHXj+U_59: 1818589360
+      iHXj+U_6: -192522379
+      iHXj+U_60: 1429087922
+      iHXj+U_61: -1898131931
+      iHXj+U_62: 1238472351
+      iHXj+U_63: -1680737795
+      iHXj+U_64: -1248120661
+      iHXj+U_65: -1245994492
+      iHXj+U_66: 643719232
+      iHXj+U_67: 475009586
+      iHXj+U_68: -670447745
+      iHXj+U_69: 376539246
+      iHXj+U_7: -2019815121
+      iHXj+U_70: 1118095978
+      iHXj+U_71: 1596732060
+      iHXj+U_72: 1246935847
+      iHXj+U_73: -1198256938
+      iHXj+U_74: -995670046
+      iHXj+U_75: 2073396793
+      iHXj+U_76: 882966386
+      iHXj+U_77: 483051969
+      iHXj+U_78: 725594791
+      iHXj+U_79: -1529820320
+      iHXj+U_8: 1073771626
+      iHXj+U_80: 1362061697
+      iHXj+U_81: -976244815
+      iHXj+U_82: -658033343
+      iHXj+U_83: -1725422505
+      iHXj+U_84: 1847249657
+      iHXj+U_85: -1870788863
+      iHXj+U_86: 1927675681
+      iHXj+U_87: -1459522430
+      iHXj+U_88: -452530717
+      iHXj+U_89: 1225603594
+      iHXj+U_9: 1110367688
+      iHXj+U_90: -1137184109
+      iHXj+U_91: -25711671
+      iHXj+U_92: -67549200
+      iHXj+U_93: -616429104
+      iHXj+U_94: -1898081805
+      iHXj+U_95: -1370748276
+      iHXj+U_96: 65315666
+      iHXj+U_97: -1715642307
+      iHXj+U_98: -1556320758
+      iHXj+U_99: 972601068
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
